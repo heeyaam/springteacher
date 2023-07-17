@@ -11,7 +11,7 @@
 	</appender>
 	
 	<!-- Application Loggers -->
-	<logger name="com.yedam.app">
+	<logger name="com.yedam.web">
 		<level value="info" />
 	</logger>
 
